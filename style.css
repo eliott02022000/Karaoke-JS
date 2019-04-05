@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	background-color: red;
+}
+
+audio {
+	display: block;
+	margin: auto;
+	margin-top: 5%;
+	margin-bottom: 40px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 100px;
+	color: gold;
+}
+
+#lyrics {
+	font-size: 40px;
+	color: gold;
+    text-align: center;
+}
